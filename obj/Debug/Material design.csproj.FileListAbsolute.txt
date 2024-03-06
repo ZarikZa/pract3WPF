@@ -1,0 +1,31 @@
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Material design.exe.config
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Material design.exe
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Material design.pdb
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\MaterialDesignColors.dll
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design.csproj.AssemblyReference.cache
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\MainWindow.g.cs
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\App.g.cs
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design_MarkupCompile.cache
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design_MarkupCompile.lref
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\App.baml
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\MainWindow.baml
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design.g.resources
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material_design.Properties.Resources.resources
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design.csproj.GenerateResource.cache
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design.exe
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material design.pdb
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\Material.EDB128BC.Up2Date
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\History.g.cs
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\MSI-MODERN-14\source\repos\Material design\Material design\obj\Debug\History.baml
